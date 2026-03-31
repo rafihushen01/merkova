@@ -31,7 +31,7 @@ import womensaree from "../assets/Women-saree.jpg";
 import womenpartydress from "../assets/WomenParty.avif";
 import womenjumpsuits from "../assets/WomenJump.avif";
 import womentop from "../assets/TankTop.avif";
-import womenunderwear from "../assets/Womens Underwear.jpg";
+import womenunderwear from "../assets/Womens underwear.jpg";
 import womenlingerie from "../assets/Womens lingerie.jpg";
 import womensbra from "../assets/Womens-bra.jpg";
 import womennightwear from "../assets/Womens-nightwear.jpg";
